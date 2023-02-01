@@ -1,5 +1,5 @@
 body{
-    background: #ce79ce;
+    background: #e1ace0d4;
     display: grid;
     place-items: center; 
     height: 150vh;
@@ -7,7 +7,7 @@ body{
     
 }
 .card{
-    background: #ce79ce;
+    background: #fdfdfd;
     border-radius: 4px;
     height: 250;
     width: 120vh;
